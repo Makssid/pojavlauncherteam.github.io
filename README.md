@@ -31,4 +31,5 @@ PojavLauncher also uses the following third-party components:
 * [Apache Commons](https://commons.apache.org): [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt).
 * [jsr305](https://code.google.com/p/jsr-305): [3-Clause BSD License](http://opensource.org/licenses/BSD-3-Clause).
 * [org.json](https://github.com/stleary/JSON-java): [The JSON License](https://www.json.org/license.html).
-* [MetalANGLE](https://github.com/kakashidinho/metalangle) by @kakashidinho and ANGLE team: [BSD License 2.0](https://github.com/kakashidinho/metalangle/blob/master/LICENSE).
+* [MetalANGLE] (https://github.com/kakashidinho/metalangle) от @kakashidinho и команды ANGLE: [BSD License 2.0] (https://github.com/kakashidinho/metalangle/blob/master/LICENSE) .
+?
